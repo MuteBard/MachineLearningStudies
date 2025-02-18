@@ -1,0 +1,58 @@
+
+
+* {
+	font-family: Roboto, sans-serif;
+	font-weight:bolder;
+	font-style:normal;
+	letter-spacing: 2px;
+	font-size: 20px;
+	color: whitesmoke;
+}
+
+.custom-button,
+.run-button,
+.cancel-button,
+.dropdownText {
+	padding: 10px 20px;
+	background-color: #5a70cb; /* Button color */
+	color: #e7e7f1;
+	border: none;
+	border-radius: 5px; /* Rounded corners */
+	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s; /* Smooth transition effect */
+	box-shadow: 0 8px 12px rgba(51, 44, 55, 0.1); /* Add shadow effect */
+	transform: translateY(1px); /* Move the button down slightly */
+}
+
+.custom-button:hover, .orderBy:hover {
+	background-color: #413ab8;
+}
+
+.run-button:hover .orderBy:hover{
+	background-color: #413ab8
+}
+
+.cancel-button:hover  {
+	background-color: #d64d74;
+}
+
+.custom-button:active{
+	box-shadow: none; /* Remove shadow when button is clicked */
+	transform: translateY(2px); /* Further move the button down when clicked */
+	background-color: #3a226d;
+}
+
+.custom-button:hover, .orderBy:hover {
+	background-color: #413ab8;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+.dropdown, .submit {
+    margin: 1em;
+}
