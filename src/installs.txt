@@ -2,3 +2,4 @@ pip install numpy
 pip install notebook
 pip install line_profiler
 pip install memory_profiler
+pip install pandas

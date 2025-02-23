@@ -473,7 +473,7 @@
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|⬜|
+|[Datacamp: Pandas Foundations](https://www.datacamp.com/courses/pandas-foundations)|🔄|
 |[Datacamp: Pandas Joins for Spreadsheet Users](https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users)|⬜|
 |[Datacamp: Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas)|⬜|
 |[Datacamp: Merging DataFrames with pandas](https://www.datacamp.com/courses/merging-dataframes-with-pandas)|⬜|
