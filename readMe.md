@@ -1,5 +1,5 @@
 # Machine Learning Studies and Adjencent Technologies
- 
+
 ## Legend
 - ✅ Complete
 - 🔄 In Progress
