@@ -17,7 +17,7 @@
 
 |Resource|Progress|
 |---|---|
-|[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|🔄|
+|[Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)|✅|
 |[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|⬜|
 |[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|⬜|
 |[Datacamp: Intermediate Object-Oriented Programming in Python](https://www.datacamp.com/courses/intermediate-object-oriented-programming-in-python)|⬜|
