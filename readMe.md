@@ -28,13 +28,8 @@
 |[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)|⬜|
 |[Datacamp: Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)|⬜|
 |[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)|⬜|
-|[Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)|⬜|
 |[Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)|⬜|
 |[Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)|⬜|
-|[Book: Python 201](https://leanpub.com/python201)|⬜|
-|[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)|⬜|
-|[Article: Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)|⬜|
-|[Article: A Programmer’s Introduction to Unicode](https://www.reedbeta.com/blog/programmers-intro-to-unicode/)|⬜|
 
 ### Testing & Profiling
 
@@ -71,18 +66,17 @@
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)|⬜|
+
 |[Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)|⬜|
-|[Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)|⬜|
-|[Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)|⬜|
+
 
 ### Databases
 
 |Resource|Progress|
 |---|---|
-|[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|⬜|
-|[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)|⬜|
 |[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
+|[Book: High Performance MySQL](https://www.udacity.com/course/intro-to-relational-databases--ud197)|⬜|
+|[Udemy: MySQL High Performance Tuning Guide](https://www.udemy.com/course/mysql-high-performance-tuning-guide/?couponCode=ST11MT170325G3)|⬜|
 |[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)|⬜|
 |[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|⬜|
 |[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|⬜|
