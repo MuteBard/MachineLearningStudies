@@ -81,14 +81,13 @@
 |Resource|Progress|
 |---|---|
 |[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
+|[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|⬜|
 |[Book: High Performance MySQL](https://www.highperfmysql.com/)|🔄|
 |[Udemy: MySQL High Performance Tuning Guide](https://www.udemy.com/course/mysql-high-performance-tuning-guide/?couponCode=ST11MT170325G3)|⬜|
 |[Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)|⬜|
 |[Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)|⬜|
-|[Datacamp: Database Design](https://www.datacamp.com/courses/database-design)|⬜|
 |[Datacamp: Introduction to Databases in Python](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python)|⬜|
 |[Datacamp: Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)|⬜|
-|[Datacamp: Intermediate SQL](https://www.datacamp.com/courses/intermediate-sql)|⬜|
 |[Datacamp: Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)|⬜|
 |[Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)|⬜|
 |[Datacamp: Exploratory Data Analysis in SQL](https://www.datacamp.com/courses/sql-for-exploratory-data-analysis)|⬜|
