@@ -21,7 +21,7 @@
 |[Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)|✅|
 |[Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)|✅|
 |[Datacamp: Intermediate Object-Oriented Programming in Python](https://www.datacamp.com/courses/intermediate-object-oriented-programming-in-python)|✅|
-|[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)|⬜|
+|[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)|🔄|
 |[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)|⬜|
 |[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)|⬜|
 |[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|⬜|
